@@ -147,3 +147,6 @@ npm run build
 npm start
 ```
 
+### Example of the usage
+https://github.com/user-attachments/assets/6082f7ee-4548-415c-b49e-a7de57f32754
+
